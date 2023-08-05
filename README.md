@@ -67,7 +67,8 @@ Model trained on 150 epochs. Training starts with generator getting random noise
 
 **Generator vs Discriminator Loss:**
 
-![image](https://github.com/ujjawalsingh10/DCGAN-for-Image-Generation/assets/19973541/2693b382-798e-40c1-912b-f577d3ecf548)
+![image](https://github.com/ujjawalsingh10/DCGAN-for-Image-Generation/assets/19973541/e150e94f-c344-466a-be19-2cdd78aa1def)
+
 
 
 ### **Sample Generated Images:**
