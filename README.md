@@ -74,5 +74,6 @@ Model trained on 150 epochs. Training starts with generator getting random noise
 ### **Sample Generated Images:**
 ![image](https://github.com/ujjawalsingh10/DCGAN-for-Image-Generation/assets/19973541/00b8ebd3-6e6a-4059-9879-8dd5d5692e97)
 
+
 **Google Drive Link:** (contains dataset, generated images after each epoch, Google Colab code and model weights)
 https://drive.google.com/drive/folders/1VvAGNeYiecgmoDuqUOFzDxrtrMJ1aWxM?usp=sharing
